@@ -1,4 +1,4 @@
-# Next.js OpenJira App
+# Next.js Brocco Planner App
 Para correr localmente, se necesita la base de datos
 
 ```
